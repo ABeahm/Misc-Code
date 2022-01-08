@@ -1,4 +1,6 @@
+package gui;
 import javax.swing.*;
+
 //Simple Gui Testing
 public class SimpleGui1 {
 	
